@@ -2,6 +2,8 @@
 
 This interactive Streamlit app demonstrates a decision network based on the classic umbrella example from *Artificial Intelligence: A Modern Approach*. Students can explore expected utility and the value of information using a simple weather forecast scenario.
 
+[https://week10-umbrella-decision-tool.streamlit.app](https://week10-umbrella-decision-tool.streamlit.app)
+
 ## 🔧 Features
 
 - Adjust utility values for all outcomes (rain/sun vs. take/leave umbrella)
